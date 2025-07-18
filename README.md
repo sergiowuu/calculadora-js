@@ -45,7 +45,7 @@ Não são necessárias dependências ou builds. Basta clonar o repositório e ab
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/sergiowuu/calculadora-js.git](https://github.com/sergiowuu/calculadora-js.git)
+git clone https://github.com/sergiowuu/calculadora-js.git
 
 # 2. Navegue até a pasta do projeto
 cd calculadora-js
