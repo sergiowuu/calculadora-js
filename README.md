@@ -2,7 +2,7 @@
 
 ![Badge de Tecnologias](https://skillicons.dev/icons?i=html,css,js)
 
-Uma calculadora científica completa, responsiva e interativa, construída com HTML, CSS e JavaScript puros. O projeto demonstra a manipulação do DOM, lógica de programação avançada e design responsivo com CSS moderno.
+Calculadora cientíica responsiva e interativa, construída com HTML, CSS e JavaScript puros. O projeto demonstra a manipulação do DOM, lógica de programação avançada e design responsivo com CSS moderno.
 
 ###  [Clique aqui para ver a demonstração ao vivo](https://sergiowuu.github.io/calculadora-js/) 
 
